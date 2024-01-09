@@ -5,6 +5,7 @@ Connolly Entrepreneurship Society Repo
 * General Resources
 	* Readings
 	* Discussion
+	* Tools
 * CEO
 * Small Business Track
 * B2C and Social
